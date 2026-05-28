@@ -233,7 +233,7 @@ The prediction history page stores predictions made during the current session a
 ### 1. Clone the repository
 
 ```bash
-git clone Add your GitHub repository link here
+https://github.com/PabodaFdo/Diabetes-Patient-Readmission-Prediction.git
 ```
 
 ### 2. Go to the project folder
